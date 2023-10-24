@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "ex git repo for managing secrets",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "npm test"
   },
